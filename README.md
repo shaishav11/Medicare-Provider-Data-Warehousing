@@ -13,7 +13,7 @@ Tableau
 ### Data Source:
 Data was collected from from CMS website. The data set consist of five (5) files which were linked with each other based on their Provider ID over 2015 and 2016 year.
 
-<br> Medicare Provider Utilization and Payment Data: Skilled Nursing Facilities
+Medicare Provider Utilization and Payment Data: Skilled Nursing Facilities
 <br> Medicare Provider Utilization and Payment Data: Hospice Providers
 <br>Medicare Provider Utilization and Payment Data: Home Health Agencies
 <br>Medicare Provider Utilization and Payment Data: Outpatient
