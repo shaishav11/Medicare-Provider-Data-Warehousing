@@ -4,7 +4,7 @@
 Analyze cost and treatment KPIs of different types of health service provider and also, analyze the nursing home facilities condition and Inpatient healthcare conditions.
 
 ### Softwares:
-<br> SQL Server Integration Service
+SQL Server Integration Service
 <br> SQL Server Analysis Service
 <br> Visual Studio
 <br> ER Studio
